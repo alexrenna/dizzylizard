@@ -5,3 +5,5 @@ applications:
  - name: dizzylizard
    buildpack: nodejs_buildpack
    memory: 32M
+   host: sed2019
+   domain: cap.suselinux.info
